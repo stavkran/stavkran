@@ -1,6 +1,8 @@
 ### Hi there, I'm ✨ Stavriana ✨ 👋 
 
-## I'm a junior Software Developer <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
+## Welcome to my GitHub profile! I am a junior software engineer with a passion for coding and a drive to learn and grow my skills.
+
+About Me <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 
 ### Experience includes (but is not limited to):
 
@@ -20,10 +22,10 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=amananku26&theme=dracula" alt="GitHub Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=stavkran&theme=radical" alt="GitHub Activity Graph" width="100%" />
 
 
- <h3><p align="center">Total Profile Visit: since 07.05.2022</p>
+ <h3><p align="center">Total Profile Visit: since 13.05.2023</p>
 <p align="center">
-    <img alingn="center" src="https://profile-counter.glitch.me/amananku26/count.svg"/>
+    <img alingn="center" src="https://profile-counter.glitch.me/stavkran/count.svg"/>
 </p>
