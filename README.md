@@ -35,8 +35,16 @@
 
 <br/> <br/>
 
-<img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stavkran&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=radical&show_icons=true />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=stavkran.stavkran)
 
 <br/> <br/>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=stavkran.stavkran)
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=amananku26&theme=dracula" alt="GitHub Activity Graph" width="100%" />
+
+
+ <h3><p align="center">Total Profile Visit: since 07.05.2022</p>
+<p align="center">
+    <img alingn="center" src="https://profile-counter.glitch.me/amananku26/count.svg"/>
+</p>
