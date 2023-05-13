@@ -1,11 +1,11 @@
-### Hi there, I'm ✨ Stavriana ✨ 
+## Hi there, I'm ✨ Stavriana ✨ 
 
 ## Welcome to my GitHub profile! I am a junior software engineer with a passion for coding and a drive to learn and grow my skills.
 
-###About Me 
-I am a recent graduate with a degree in computer science. During my time in college, I worked on various projects that allowed me to gain experience in different programming languages and technologies. I am always eager to learn more and take on new challenges.
+##About Me 
+#I am a recent graduate with a degree in computer science. During my time in college, I worked on various projects that allowed me to gain experience in different programming languages and technologies. I am always eager to learn more and take on new challenges.
 
-### Experience includes (but is not limited to):
+## Experience includes (but is not limited to):
 - ⚡Proficient in Java, Python, and JavaScript
 - 🪐Familiar with HTML/CSS and React.js
 - 🎇Experience with Git and GitHub for version control
@@ -13,17 +13,17 @@ I am a recent graduate with a degree in computer science. During my time in coll
 
 <br />
 
-<br/> <br/>
+<br/> 
 <p align="center">
 <img height="181em" src="https://github-readme-stats.vercel.app/api?username=stavkran&count_private=true&show_icons=true&theme=radical" align = "center"/>
 <img height="181em" src="https://github-readme-stats.vercel.app/api/top-langs?username=stavkran&show_icons=true&locale=en&layout=compact&theme=radical" align = "center"/>
 </p>
 
-<br/> <br/>
+<br/> 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=stavkran.stavkran)
 
-<br/> <br/>
+<br/> 
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
