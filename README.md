@@ -1,9 +1,9 @@
 ## Hi there, I'm ✨ Stavriana ✨ 
 
-## Welcome to my GitHub profile! I am a junior software engineer with a passion for coding and a drive to learn and grow my skills.
+## Welcome to my GitHub profile! I am a junior software developer with a passion for coding and a drive to learn and grow my skills.
 
 ## About me
-I am a senior and soon graduate of the Department of Digital Systems @ University of Piraeus with a degree in computer science. During my time in college, I worked on various projects that allowed me to gain experience in different programming languages and technologies. I am always eager to learn more and take on new challenges.
+I am a senior - and soon to be  graduate - of the Department of Digital Systems @ University of Piraeus. During my time in college, I worked on various projects that allowed me to gain experience in different programming languages and technologies. I am always eager to learn more and take on new challenges.
 
 ## Experience includes (but is not limited to):
 - ⚡Proficient in Java, Python, and JavaScript
