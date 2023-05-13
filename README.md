@@ -32,7 +32,7 @@
 <br/> <br/>
 
 ![Stavriana's GitHub stats](https://github-readme-stats.vercel.app/api?username=stavkran&theme=radical&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stavkran&layout=compact)](https://github.com/stavkran/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stavkran&layout=compact&theme=radical)](https://github.com/stavkran/github-readme-stats)
 
 <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stavkran&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=radical&show_icons=true />
 
