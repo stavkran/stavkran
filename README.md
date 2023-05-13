@@ -6,10 +6,10 @@
 I am a recent graduate with a degree in computer science. During my time in college, I worked on various projects that allowed me to gain experience in different programming languages and technologies. I am always eager to learn more and take on new challenges.
 
 ### Experience includes (but is not limited to):
-Proficient in Java, Python, and JavaScript
-Familiar with HTML/CSS and React.js
-Experience with Git and GitHub for version control
-Comfortable with Linux/Unix command-line interface
+- ⚡Proficient in Java, Python, and JavaScript
+- 🪐Familiar with HTML/CSS and React.js
+- 🎇Experience with Git and GitHub for version control
+- 🌌Comfortable with Linux/Unix command-line interface
 
 <br />
 
@@ -27,7 +27,7 @@ Comfortable with Linux/Unix command-line interface
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=stavkran&theme=radical)](https://github.com/stavkran/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=stavkran&theme=github-compact)](https://github.com/stavkran/github-readme-activity-graph)
 
 
  <h3><p align="center">Total Profile Visit: since 13.05.2023</p>
