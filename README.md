@@ -15,8 +15,9 @@ I am a senior - and soon to be  graduate - at the Department of Digital Systems 
 
 <br/> 
 <p align="center">
-<img height="181em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" align = "center"/>
-<img height="181em" src="https://github-readme-stats.vercel.app/api/top-langs?username=stavkran&show_icons=true&locale=en&layout=compact&theme=radical" align = "center"/>
+<img height="181em" src="https://github-readme-stats.vercel.app/api?username=stavkkran&show_icons=true&theme=radical" align = "center"/>
+<img height="181em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stavkran&layout=donut-vertical" align = "center"/>
+<!-- <img height="181em" src="https://github-readme-stats.vercel.app/api/top-langs?username=stavkran&show_icons=true&locale=en&layout=compact&theme=radical" align = "center"/> -->
 </p>
 
 <br/> 
