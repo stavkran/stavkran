@@ -23,9 +23,8 @@ I am a senior - and soon to be  graduate - at the Department of Digital Systems 
 <br/> 
 
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-[![Stavriana's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=stavkran&bg_color=ffffff&color=4c71f2&line=4c71f2&point=ffffff&area=true&hide_border=true)](https://github.com/stavkran)
-<!-- [![Stavriana's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=stavkran&theme=github-compact)](https://github.com/stavkran/github-readme-activity-graph) -->
+<!-- ### 📈 GitHub Activity Graph:
+[![Stavriana's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=stavkran&theme=github-compact)](https://github.com/stavkran/github-readme-activity-graph) -->
 
 
  <h3><p align="center">Total Profile Visit: since 13.05.2023</p>
