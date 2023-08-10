@@ -15,8 +15,8 @@ I am a senior - and soon to be  graduate - at the Department of Digital Systems 
 
 <br/> 
 <p align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stavkran&show_icons=true&theme=radical&token=${PAT_1})
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stavkran&layout=compact&theme=radical&hide=jupyter%20notebook,html,css&token=${PAT_1})
+<img height="181em" src="https://github-readme-stats.vercel.app/api?username=stavkran&show_icons=true&theme=radical&token=PAT_1" align="center"/>
+ <img height="181em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stavkran&layout=compact&theme=radical&hide=jupyter%20notebook,html,css&token=PAT_1" align="center"/>
 <!-- <img height="181em" src="https://github-readme-stats.vercel.app/api?username=stavkran&show_icons=true&theme=radical" align = "center"/>
 <img height="181em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stavkran&layout=compact&theme=radical&hide=jupyter%20notebook,html,css" align = "center"/> -->
 <!-- <img height="181em" src="https://github-readme-stats.vercel.app/api/top-langs?username=stavkran&show_icons=true&locale=en&layout=compact&theme=radical" align = "center"/> -->
