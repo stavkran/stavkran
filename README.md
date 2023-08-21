@@ -4,11 +4,13 @@
 ## Welcome to my GitHub profile! I am a junior software developer with a passion for coding and a drive to learn and grow my skills.
 
 ## About me
-I am a senior - and soon to be  graduate - at the Department of Digital Systems @ University of Piraeus. During my time in college, I worked on various projects that allowed me to gain experience in different programming languages and technologies. I am always eager to learn more and take on new challenges.
+I am a senior - and soon to be  graduate - at the Department of Digital Systems @ University of Piraeus. 
+During my time in college, I worked on various projects that allowed me to gain experience in different programming languages and technologies. 
+I am always eager to learn more and take on new challenges.
 
 ## Experience includes (but is not limited to):
 - ⚡Proficient in Java, Python, and JavaScript
-- 🪐Familiar with HTML/CSS and React.js
+- 🪐Familiar with React.js
 - 🎇Experience with Git and GitHub for version control
 - 🌌Comfortable with Linux/Unix command-line interface
 
