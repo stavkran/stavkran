@@ -1,7 +1,7 @@
 <!--## Hi there, I'm ✨ Stavriana ✨ -->
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D900A1&width=435&lines=hi%2C+Stavriana+here.)](https://git.io/typing-svg)
 
-## Welcome to my GitHub profile! I am a junior software developer with a passion for coding and a drive to learn and grow my skills.
+## Welcome to my GitHub profile! I am a junior software engineer with a passion for coding and a drive to learn and grow my skills.
 
 ## About me
 Soon to be  graduate of the Department of Digital Systems @ University of Piraeus. 
