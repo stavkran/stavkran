@@ -1,7 +1,7 @@
 <!--## Hi there, I'm ✨ Stavriana ✨ -->
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D900A1&width=435&lines=hi%2C+Stavriana+here.)](https://git.io/typing-svg)
 
-## Welcome!
+<!-- ## Welcome! -->
 
 <br />
 
@@ -21,7 +21,7 @@
 [![Stavriana's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=stavkran&theme=github-compact)](https://github.com/stavkran/github-readme-activity-graph) -->
 
 
- <h3><p align="center">Total Profile Visit: since 13.05.2023</p>
+<!-- <h3><p align="center">Total Profile Visit: since 13.05.2023</p>
 <p align="center">
     <img alingn="center" src="https://profile-counter.glitch.me/stavkran/count.svg"/>
-</p>
+</p> -->
