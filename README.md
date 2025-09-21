@@ -1,18 +1,7 @@
 <!--## Hi there, I'm ✨ Stavriana ✨ -->
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D900A1&width=435&lines=hi%2C+Stavriana+here.)](https://git.io/typing-svg)
 
-## Welcome to my GitHub profile! I am a junior software engineer with a passion for coding and a drive to learn and grow my skills.
-
-## About me
-Soon to be  graduate of the Department of Digital Systems @ University of Piraeus. 
-During my time in college, I worked on various projects that allowed me to gain experience in different programming languages and technologies. 
-I am always eager to learn more and take on new challenges.
-
-## Experience includes (but is not limited to):
-- ⚡Proficient in Java, Python, and JavaScript
-- 🪐Familiar with React.js
-- 🎇Experience with Git and GitHub for version control
-- 🌌Comfortable with Linux/Unix command-line interface
+## Welcome!
 
 <br />
 
